@@ -46,7 +46,7 @@ public class verCliente extends AppCompatActivity {
         } else if(7 == imagen) {
             fotoCliente.setImageResource(R.drawable.m7);
         } else if(8 == imagen) {
-            fotoCliente.setImageResource(R.drawable.m8);
+            fotoCliente.setImageResource(R.drawable.c8);
         }
     }
 

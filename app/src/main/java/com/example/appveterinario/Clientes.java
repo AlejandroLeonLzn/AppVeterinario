@@ -46,7 +46,7 @@ public class Clientes extends AppCompatActivity {
             "nancybeltran10@hotmail.com",
             "correo no found",
             "correo no found",
-            "correo no found"};
+            "gavj950110@gmail.com"};
     private ListView lv2;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
